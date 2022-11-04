@@ -1,0 +1,57 @@
+.navbar-brand > #brand{
+    width: 60px;
+    height: 30px;
+}
+
+ #footer{
+    background-color: black;
+    padding: 15px 0;
+}
+
+#footer  a{ 
+    color: white;
+    text-decoration: none;
+}
+
+.maindiv{
+    border: 1px solid black;
+    background-color: antiquewhite;
+}
+#para1{
+    text-align: end;
+    padding: 2px 0 0 0;
+}
+#link1{
+    color: white;
+}
+#spanInner{
+    border: 1px solid black;
+    color: white;
+    padding: 5px 10px;
+    background-color: brown;
+}
+#spanInner1{
+    border: 1px solid black;
+    color: white;
+    padding: 5px 10px;
+    background-color: blueviolet;
+}
+#spanInner2{
+    border: 1px solid black;
+    color: white;
+    padding: 5px 10px;
+    background-color: green;
+}
+
+.tips{
+    font-size: 14px;
+}
+
+.mainDiv{
+   
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+
