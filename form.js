@@ -34,7 +34,7 @@ function mySubmit(event) {
         document.getElementById("error").innerHTML = "please enter your valid Number"
     }
     else {
-        console.log(name, email, number, gender);
+       
         let a = 0;
         allData.innerHTML += `<tr id="${a++}"><td>${name}</td><td>${number}</td><td>${email}</td><td>${gender}</td><td></td></tr>`
         document.getElementById("Name").value = ""
